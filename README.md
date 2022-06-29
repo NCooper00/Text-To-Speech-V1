@@ -2,4 +2,4 @@
 A VERY basic text to speech made in Unity.
 
 ## What it does
-Has a simple recording for each letter in the alphabet and will read any words/letters the user inputs and read it (very poorly).
+Has a simple recording for each letter in the alphabet and will *(very poorly)* read any words/letters the user inputs.
